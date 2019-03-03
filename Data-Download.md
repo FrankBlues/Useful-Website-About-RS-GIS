@@ -11,4 +11,8 @@ https://landsatlook.usgs.gov/viewer.html
 https://registry.opendata.aws/landsat-8/   
 
 **Google**   
-https://console.cloud.google.com/storage/browser/gcp-public-data-landsat
+https://console.cloud.google.com/storage/browser/gcp-public-data-landsat 
+
+**Sentinel**  
+http://copernicus.eu/data-access  
+https://peps.cnes.fr/rocket/#/home 
